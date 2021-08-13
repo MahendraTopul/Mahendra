@@ -1,0 +1,38 @@
+1)  If i=3, j=2 what is the result of following expressions?
+        i + 5 >= j - 6
+	j * 10 < i ** 2
+	i < j + 5 > j ** 4
+
+  O/P:   True
+	 False
+	 False
+2)   Identify the valid and invalid operators?
+	<>
+	>=
+	//=
+	&
+ 	
+ 	valid operators:- >=, //=, &
+	Invalid operators:- <>
+
+3)   Which is the correct operators for power(xy)? 
+	x**y
+
+4)   Which one of these is floor division?
+	//
+
+5)   What is the order of precedence in python?
+	Parentheses,Exponential,Multiplication,Division,Addition,Subtraction
+
+6)   What is the answer to this expression, 22 % 3 is?
+	1
+
+7)   Mathematical operations can be performed on a string
+	False
+
+8)   What is mean by operatos in python 
+	They are the special symbols in python
+
+9)   How many types of operators in python
+	7 operators are there in python
+  
